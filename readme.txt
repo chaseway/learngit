@@ -1,1 +1,2 @@
 git is very good
+Creating a new branch is quick & simple.
